@@ -76,10 +76,7 @@ header nav ul li {
 
 
 
-
-
-
-
+/*Reusable class Styling*/
 .float-left {
     float: left;
     margin-right: 25px;
@@ -95,6 +92,10 @@ header nav ul li {
     display: inline-block;
     margin-left: 20px;
 }
+
+/*End Reusable class Styling*/
+
+/*Benefits aside Styling*/
 
 .benefits {
     margin-right: 20px;
@@ -155,6 +156,10 @@ header nav ul li {
     max-width: 150px;
 }
 
+/*End Benefits aside styling*/
+
+/*id Styling*/
+
 #search-engine-optimization {
     margin-bottom: 20px;
     padding: 50px;
@@ -209,6 +214,9 @@ header nav ul li {
     font-size: 36px;
 }
 
+/*End id Styling*/
+
+/*footer Styling*/
 footer {
     padding: 30px;
     clear: both;
@@ -219,3 +227,5 @@ footer {
 footer h2 {
     font-size: 20px;
 }
+
+/*End footer Styling*/
