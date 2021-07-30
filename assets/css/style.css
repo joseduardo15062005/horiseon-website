@@ -1,13 +1,28 @@
+/*Reset  user agent Style */
 * {
     box-sizing: border-box;
     padding: 0;
     margin: 0;
 }
 
+/* End Reset  user agent Style */
+
+/* Styling HTML tags*/
+
 body {
     background-color: #d9dcd6;
 }
 
+a {
+    color: #ffffff;
+    text-decoration: none;
+}
+
+p {
+    font-size: 16px;
+}
+
+/*End Styling HTML tags*/
 
 /*Header styling */
 header {
@@ -45,14 +60,8 @@ header nav ul li {
 
 /*End Header Styling*/
 
-a {
-    color: #ffffff;
-    text-decoration: none;
-}
 
-p {
-    font-size: 16px;
-}
+/* Hero Section Styling*/
 
 .hero {
     height: 800px;
@@ -62,6 +71,14 @@ p {
     background-size: cover;
     background-position: center;
 }
+
+/*End Hero Section Styling*/
+
+
+
+
+
+
 
 .float-left {
     float: left;
