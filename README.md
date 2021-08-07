@@ -2,7 +2,7 @@
 
 ## Purpose
 
-A website for Horiseon Marketing Agency Service.
+Refactor a website for Horiseon Marketing Agency Service.
 
 ## Built With
 
