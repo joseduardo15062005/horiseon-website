@@ -1,7 +1,7 @@
 # Horiseon Website
 
 
-![Mockup Screenshot](../../assests/images/screenshot.png)
+![Mockup Screenshot](assets/images/screenshot.png)
 
 ## Purpose
 
