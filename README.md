@@ -1,7 +1,7 @@
 # Horiseon Website
 
 
-![GitHub Logo](/assests/images/screenshot.png)
+![Mockup Screenshot](../../assests/images/screenshot.png)
 
 ## Purpose
 
