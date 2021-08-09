@@ -1,5 +1,8 @@
 # Horiseon Website
 
+
+![GitHub Logo](/assests/images/screenshot.png)
+
 ## Purpose
 
 Refactor a website for Horiseon Marketing Agency Service.
